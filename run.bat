@@ -1,0 +1,1 @@
+http-server dist/character-sheet-manager -o
